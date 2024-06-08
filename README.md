@@ -11,5 +11,5 @@ pip install opencv-python tensorflow matplotlib
 ## Results
 For the image below:
 
-!(https://github.com/HafsaRafique/Image-Classifier-using-Neural-Network/images_to_test/Cat2.jpeg)
+!(https://github.com/HafsaRafique/images_to_test/Cat2.jpeg)
 
