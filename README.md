@@ -19,3 +19,5 @@ The prediction was as follows:
 <p align="center">
 <image src="https://github.com/HafsaRafique/Image-Classifier-using-Neural-Network/blob/main/images_to_test/prediction1.png">
 </p>
+
+You may input your own images to test the model.
