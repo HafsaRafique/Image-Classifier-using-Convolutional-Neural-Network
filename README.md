@@ -10,11 +10,11 @@ pip install opencv-python tensorflow matplotlib
 
 ## Results
 For the image below:
-<p style="position:center">
+<p align="center">
 ![Image](https://github.com/HafsaRafique/Image-Classifier-using-Neural-Network/blob/main/images_to_test/Cat2.jpeg)
 </p>
 The prediction was as follows:
 
-<p style="position:center">
+<p align="center">
 ![Image](https://github.com/HafsaRafique/Image-Classifier-using-Neural-Network/blob/main/images_to_test/prediction1.png)
 </p>
